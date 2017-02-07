@@ -13,7 +13,7 @@ Para instalar o Aniversário RED você deverá baixar o arquivo "aniversario_red
 Agora você deverá configurar ele, para isso edite o arquivo e edite as seguintes linhas:
 - Linha 15: "$camponascimento" especifique o ID do campo de data de nascimento, caso não tenha lembre-se de criar um campo personalizado em seu WHMCS e após isso verifique qual é o ID do FIELD, lembre-se não é a posição do campo e sim o ID FIELD, caso queira descobrir acesse a página de registro de usuários abra o código fonte e pesquise pelo campo ele deverá estar no seguinte formado ustomfield[ID].<br/>
 - Linha 17: "$mensagem" coloque o nome único do e-mail criado no seu whmcs para esta finalidade, lembre-se de colocar exatamente o nome único que você atribuiu a ele na criação.<br/>
-- Linha 18: "$admin" neste campo você deverá especificar o usuário que você usa para logar em seu WHMCS, para atribuir o envio ao usuário (é necessário por conta da LocalAPI).
+- Linha 19: "$admin" neste campo você deverá especificar o usuário que você usa para logar em seu WHMCS, para atribuir o envio ao usuário (é necessário por conta da LocalAPI).
 
 # Considerações
 Espero que seja útil para seu dia a dia, caso tenha dúvidas convido a conhecer nosso fórum também: http://forum.whmcs.red<br/>

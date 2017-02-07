@@ -47,7 +47,7 @@ function aniversario_red($vars){
 		//exemplificar a data
 		$exemplificar = explode("/", $identificacao[nascimento]);
 		//Verifica se o dia/mes são iguais para enviar a função
-		if($exemplificar[0]==$dia AND $exemplificar[1]==$mes){
+		if($exemplificar[0]==$dia && $exemplificar[1]==$mes){
 	 		//Executa a função via localAPI
 	    	$executar = localAPI($comando, $valores, $administrador);
 	    }

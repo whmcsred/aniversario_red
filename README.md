@@ -6,7 +6,7 @@ Para funcionar você deverá ter:<br/>
 - WHMCS 6 ou superior<br/>
 - PHP 5.6 ou superior<br/>
 - PDO e Mysqli instalados<br/>
-- Campo Personalizado de Data de Nascismento com Mascará (00/00/0000).
+- Campo Personalizado de Data de Nascimento com Mascará (00/00/0000).
 
 # Como instalar
 Para instalar o Aniversário RED você deverá baixar o arquivo "aniversario_red.php" e envia-lo para o caminho: /includes/hooks/<br/>

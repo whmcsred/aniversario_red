@@ -3,7 +3,7 @@ O Aniversário RED é um HOOK destinado a WHMCS para poder fazer envio de e-mail
 
 # Requisitos para funcionamento
 Para funcionar você deverá ter:<br/> 
-- WHMCS 6 ou superior<br/>
+- WHMCS 7 ou superior<br/>
 - PHP 5.6 ou superior<br/>
 - PDO e Mysqli instalados<br/>
 - Campo Personalizado de Data de Nascimento com Mascará (00/00/0000).
